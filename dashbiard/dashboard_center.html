@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Security Center — SiteWebPerso-Security</title>
+<style>
+    body {
+        background: #0d1117;
+        color: #e6e6e6;
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+    header {
+        background: #161b22;
+        padding: 20px;
+        text-align: center;
+        font-size: 26px;
+        font-weight: bold;
+        border-bottom: 2px solid #30363d;
+    }
+    .section {
+        padding: 20px;
+        border-bottom: 1px solid #30363d;
+    }
+    h2 {
+        color: #58a6ff;
+        margin-bottom: 10px;
+    }
+    .card {
+        background: #161b22;
+        padding: 15px;
+        margin: 10px 0;
+        border: 1px solid #30363d;
+        border-radius: 6px;
+    }
+    .ok {
+        color: #3fb950;
+        font-weight: bold;
+    }
+    .pending {
+        color: #f0ad4e;
+        font-weight: bold;
+    }
+    .badge {
+        display: inline-block;
+        background: #1f6feb;
+        padding: 5px 10px;
+        border-radius: 4px;
+        margin-right: 6px;
+        font-size: 12px;
+        color: white;
+    }
+</style>
+</head>
+
+<body>
+
+<header>SECURITY CENTER — SiteWebPerso-Security</header>
+
+<div class="section">
+    <h2>État global</h2>
+    <div class="card">
+        <span class="badge">AUDITS</span>
+        <span class="ok">✔ Opérationnel</span>
+    </div>
+    <div class="card">
+        <span class="badge">CI/CD</span>
+        <span class="ok">✔ Actif</span>
+    </div>
+    <div class="card">
+        <span class="badge">MONITORING</span>
+        <span class="ok">✔ En service</span>
+    </div>
+    <div class="card">
+        <span class="badge">MODULES</span>
+        <span class="ok">✔ Chargés</span>
+    </div>
+</div>
+
+<div class="section">
+    <h2>Audits automatisés</h2>
+    <div class="card">
+        Scan HTTP(S) : <span class="ok">✔</span><br>
+        Analyse TLS : <span class="ok">✔</span><br>
+        Vérification en-têtes : <span class="ok">✔</span>
+    </div>
+</div>
+
+<div class="section">
+    <h2>CI/CD Sécurité</h2>
+    <div class="card">
+        SAST : <span class="ok">✔</span><br>
+        DAST : <span class="ok">✔</span><br>
+        Scan dépendances : <span class="ok">✔</span><br>
+        Blocage criticité High : <span class="ok">✔</span>
+    </div>
+</div>
+
+<div class="section">
+    <h2>Monitoring</h2>
+    <div class="card">
+        Logs HTTP : <span class="ok">✔</span><br>
+        Alertes email/webhook : <span class="ok">✔</span><br>
+        Détection activité suspecte : <span class="ok">✔</span>
+    </div>
+</div>
+
+<div class="section">
+    <h2>Modules sécurité</h2>
+    <div class="card">
+        Scanners : <span class="ok">✔</span><br>
+        Configurations : <span class="ok">✔</span><br>
+        Tests automatisés : <span class="ok">✔</span><br>
+        Rapports consolidés : <span class="ok">✔</span>
+    </div>
+</div>
+
+</body>
+</html>
