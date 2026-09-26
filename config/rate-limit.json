@@ -1,0 +1,10 @@
+{
+  "global": {
+    "windowMs": 60000,
+    "max": 200
+  },
+  "sensitiveRoutes": {
+    "/admin": { "windowMs": 60000, "max": 20 },
+    "/login": { "windowMs": 60000, "max": 50 }
+  }
+}
