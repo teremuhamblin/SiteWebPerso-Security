@@ -1,26 +1,21 @@
-###### README.md >> markdown
 # SiteWebPerso-Security
 
-Sécurité centralisée pour l’écosystème **SiteWebPerso**, incluant :
-- SiteWebPerso (base)
+Sécurité centralisée pour l’écosystème :
+- SiteWebPerso
 - SiteWebPerso-Client
 - SiteWebPerso-Server
 
-### État général du projet
-- [x] Dépôt créé
-- [x] Structure initiale définie
-- [ ] Premiers audits automatisés
-- [ ] Intégration CI/CD sécurité
-- [ ] Monitoring avancé
+## État du projet
+- [x] Premiers audits automatisés
+- [x] Intégration CI/CD sécurité
+- [x] Monitoring avancé
+- [x] Modules sécurité opérationnels
 
-### Modules inclus
-- [x] Scanners de sécurité
-- [x] Configurations de protection
-- [ ] Tests automatisés
-- [ ] Rapports consolidés
+## Dossiers principaux
+- `docs/security-audits/` — Audits automatisés
+- `docs/security-cicd/` — CI/CD sécurité
+- `docs/security-monitoring/` — Monitoring avancé
+- `config/` — Configuration
 
-### Objectifs
-- Centraliser la sécurité
-- Auditer les 3 projets
-- Détecter les failles
-- Appliquer des règles communes
+Version : voir `VERSION.md`
+Historique : voir `CHANGELOG.md`
