@@ -9,7 +9,7 @@ SiteWebPerso-Security/
 ├── 
 ├── docs/
 │   ├── README.md
-│   ├── security-check.md 
+│   ├── security-checklist.md 
 │   ├── structure.md
 │   ├── audit.md
 │   └── rules.md
