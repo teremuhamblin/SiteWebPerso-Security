@@ -9,19 +9,28 @@ les audits, règles, configurations et procédures de sécurité pour :
 ## État de la documentation
 - [x] Structure du dossier créée
 - [x] README initial ajouté
-- [ ] Guides d’audit
-- [ ] Procédures de sécurité
-- [ ] Documentation des scanners
-- [ ] Documentation des tests
-- [ ] Rapports consolidés
+- [x] Guides d’audit
+- [x] Procédures de sécurité
+- [x] Documentation des scanners
+- [x] Documentation des tests
+- [x] Rapports consolidés
 
-## Contenu prévu
-- [ ] AUDIT_GUIDE.md — Procédures d’audit
-- [ ] SECURITY_RULES.md — Règles de sécurité
-- [ ] SCANNERS.md — Documentation des scripts
-- [ ] TESTS.md — Documentation des tests
-- [ ] REPORTS.md — Format des rapports
+### Contenu prévu
+```text
+- [x] AUDIT_GUIDE.md
+   - Procédures d’audit
+- [x] SECURITY_RULES.md
+   - Règles de sécurité
+- [x] SCANNERS.md
+   - Documentation des scripts
+- [x] TESTS.md
+   - Documentation des tests
+- [x] REPORTS.md
+   - Format des rapports
+```
 
-## Objectif
+### Objectif
+<p align="center">
 Fournir une documentation claire, centralisée et évolutive pour maintenir la sécurité
-globale de l’écosystème SiteWebPerso.
+globale de l’écosystème SiteWebPerso
+</p>
