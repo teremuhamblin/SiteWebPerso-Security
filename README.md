@@ -13,9 +13,10 @@ Sécurité centralisée pour l’écosystème :
 
 ## Dossiers principaux
 - config/ : configurations
+- dashboard/ : centre de contrôle web
 - docs/ : documentations
 - scanner/ : scripts de sécurités
 - security/ : dossier de sécurité 
 
-- Version : voir `VERSION.md`
-- Historique : voir `CHANGELOG.md`
+>Version : voir `VERSION.md`
+
