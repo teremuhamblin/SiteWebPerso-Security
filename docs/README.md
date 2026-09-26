@@ -1,7 +1,12 @@
-# Documentation — SiteWebPerso-Security
+###### README.md >> markdown
+# Documentation
+### SiteWebPerso-Security
 
-Ce dossier contient la documentation centrale du projet **SiteWebPerso-Security**, couvrant
+<p align="center">
+   Ce dossier contient la documentation centrale du projet **SiteWebPerso-Security**, couvrant
 les audits, règles, configurations et procédures de sécurité pour :
+</p>
+
 - SiteWebPerso
 - SiteWebPerso-Client
 - SiteWebPerso-Server
