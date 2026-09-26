@@ -1,0 +1,11 @@
+{
+  "rateLimit": {
+    "windowMs": 60000,
+    "max": 100
+  },
+  "blockedIPs": [
+    "192.168.1.10",
+    "10.0.0.5"
+  ],
+  "allowedMethods": ["GET", "POST"]
+}
