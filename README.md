@@ -12,10 +12,10 @@ Sécurité centralisée pour l’écosystème :
 - [x] Modules sécurité opérationnels
 
 ## Dossiers principaux
-- `docs/security-audits/` — Audits automatisés
-- `docs/security-cicd/` — CI/CD sécurité
-- `docs/security-monitoring/` — Monitoring avancé
-- `config/` — Configuration
+- config/ : configurations
+- docs/ : documentations
+- scanner/ : scripts de sécurités
+- security/ : dossier de sécurité 
 
-Version : voir `VERSION.md`
-Historique : voir `CHANGELOG.md`
+- Version : voir `VERSION.md`
+- Historique : voir `CHANGELOG.md`
